@@ -40,10 +40,3 @@ Apply normalization principles to ensure the Airbnb database schema adheres to T
 ✅ **All tables meet 3NF**.
 
 ---
-
-## Summary
-The current Airbnb schema satisfies the following:
-- **1NF**: Atomic columns and unique rows
-- **2NF**: Full functional dependency on primary keys
-- **3NF**: No transitive dependencies
----
