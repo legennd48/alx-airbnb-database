@@ -35,4 +35,3 @@ INSERT INTO message (message_id, sender_id, recipient_id, message_body)
 VALUES
   ('eeeeeee1-eeee-eeee-eeee-eeeeeeeeeeee', '11111111-1111-1111-1111-111111111111', '22222222-2222-2222-2222-222222222222', 'Hi, is the villa available in July?'),
   ('eeeeeee2-eeee-eeee-eeee-eeeeeeeeeeee', '22222222-2222-2222-2222-222222222222', '11111111-1111-1111-1111-111111111111', 'Yes, the dates are open!');
-ij
